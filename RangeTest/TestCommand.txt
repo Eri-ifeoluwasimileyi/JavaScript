@@ -1,5 +1,0 @@
-java -jar junit-platform-console-standalone-1.9.2.jar --class-path . --scan-classpath --include-classname RangeTest
-
-
-
-javac -cp junit-platform-console-standalone-1.9.2.jar Range.java RangeArray.java RangeTest.java
